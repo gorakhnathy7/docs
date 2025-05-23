@@ -53,6 +53,325 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Explore Hyperswitch",
+        "groups": [
+          {
+            "group": "Account Management",
+            "pages": [
+              "explore-hyperswitch/account-management",
+              "explore-hyperswitch/account-management/disputes",
+              "explore-hyperswitch/account-management/manage-your-team",
+              "explore-hyperswitch/account-management/multi-tenancy-with-hyperswitch",
+              {
+                "group": "3DS Decision Manager",
+                "pages": [
+                  "explore-hyperswitch/account-management/3ds-decision-manager-1",
+                  "explore-hyperswitch/account-management/3ds-decision-manager-1/setup-guide"
+                ]
+              },
+              {
+                "group": "Analytics and Operations",
+                "pages": [
+                  "explore-hyperswitch/account-management/analytics-and-operations",
+                  "explore-hyperswitch/account-management/analytics-and-operations/exporting-payments-data"
+                ]
+              },
+              {
+                "group": "Data Migration",
+                "pages": [
+                  "explore-hyperswitch/account-management/data-migration",
+                  "explore-hyperswitch/account-management/data-migration/export-data-from-hyperswitch",
+                  "explore-hyperswitch/account-management/data-migration/import-data-to-hyperswitch"
+                ]
+              },
+              {
+                "group": "Multiple Accounts and Profiles",
+                "pages": [
+                  "explore-hyperswitch/account-management/multiple-accounts-and-profiles",
+                  "explore-hyperswitch/account-management/multiple-accounts-and-profiles/account-setup",
+                  "explore-hyperswitch/account-management/multiple-accounts-and-profiles/hyperswitch-account-structure"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "E-commerce Platform Plugins",
+            "pages": [
+              "explore-hyperswitch/e-commerce-platform-plugins",
+              "explore-hyperswitch/e-commerce-platform-plugins/automatic-tax-calculation-for-express-checkout-wallets",
+              {
+                "group": "Saleor App",
+                "pages": [
+                  "explore-hyperswitch/e-commerce-platform-plugins/saleor-app",
+                  "explore-hyperswitch/e-commerce-platform-plugins/saleor-app/setup"
+                ]
+              },
+              {
+                "group": "WooCommerce Plugin",
+                "pages": [
+                  "explore-hyperswitch/e-commerce-platform-plugins/woocommerce-plugin",
+                  "explore-hyperswitch/e-commerce-platform-plugins/woocommerce-plugin/compatibility",
+                  "explore-hyperswitch/e-commerce-platform-plugins/woocommerce-plugin/faqs",
+                  "explore-hyperswitch/e-commerce-platform-plugins/woocommerce-plugin/roadmap",
+                  "explore-hyperswitch/e-commerce-platform-plugins/woocommerce-plugin/setup"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Merchant Controls",
+            "pages": [
+              "explore-hyperswitch/merchant-controls",
+              "explore-hyperswitch/merchant-controls/payment-methods-management",
+              {
+                "group": "Click to Pay",
+                "pages": [
+                  "explore-hyperswitch/merchant-controls/click-to-pay",
+                  "explore-hyperswitch/merchant-controls/click-to-pay/visa-click-to-pay-v1-to-v2-migration"
+                ]
+              },
+              {
+                "group": "Integration Guide",
+                "pages": [
+                  "explore-hyperswitch/merchant-controls/integration-guide",
+                  "explore-hyperswitch/merchant-controls/integration-guide/headless",
+                  {
+                    "group": "Android",
+                    "pages": [
+                      "explore-hyperswitch/merchant-controls/integration-guide/android",
+                      "explore-hyperswitch/merchant-controls/integration-guide/android/customization",
+                      "explore-hyperswitch/merchant-controls/integration-guide/android/features",
+                      "explore-hyperswitch/merchant-controls/integration-guide/android/kotlin-with-node-backend"
+                    ]
+                  },
+                  {
+                    "group": "iOS",
+                    "pages": [
+                      "explore-hyperswitch/merchant-controls/integration-guide/ios",
+                      "explore-hyperswitch/merchant-controls/integration-guide/ios/customization",
+                      "explore-hyperswitch/merchant-controls/integration-guide/ios/features",
+                      "explore-hyperswitch/merchant-controls/integration-guide/ios/swift-with-node-backend"
+                    ]
+                  },
+                  {
+                    "group": "React Native",
+                    "pages": [
+                      "explore-hyperswitch/merchant-controls/integration-guide/react-native",
+                      "explore-hyperswitch/merchant-controls/integration-guide/react-native/customization",
+                      "explore-hyperswitch/merchant-controls/integration-guide/react-native/react-native-with-node-backend",
+                      "explore-hyperswitch/merchant-controls/integration-guide/react-native/react-native-with-node-backend-1"
+                    ]
+                  },
+                  {
+                    "group": "React Native 1",
+                    "pages": [
+                      "explore-hyperswitch/merchant-controls/integration-guide/react-native-1",
+                      "explore-hyperswitch/merchant-controls/integration-guide/react-native-1/customization",
+                      "explore-hyperswitch/merchant-controls/integration-guide/react-native-1/react-native-with-node-backend"
+                    ]
+                  },
+                  {
+                    "group": "Web",
+                    "pages": [
+                      "explore-hyperswitch/merchant-controls/integration-guide/web",
+                      "explore-hyperswitch/merchant-controls/integration-guide/web/customization",
+                      "explore-hyperswitch/merchant-controls/integration-guide/web/error-codes",
+                      "explore-hyperswitch/merchant-controls/integration-guide/web/node-and-html",
+                      "explore-hyperswitch/merchant-controls/integration-guide/web/node-and-react",
+                      "explore-hyperswitch/merchant-controls/integration-guide/web/server-setup",
+                      "explore-hyperswitch/merchant-controls/integration-guide/web/vanilla-js-and-rest-api-integration"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Overview",
+            "pages": [
+              "explore-hyperswitch/overview",
+              "explore-hyperswitch/overview/gdpr-compliance",
+              "explore-hyperswitch/overview/identity-and-access-management",
+              "explore-hyperswitch/overview/pci-compliance",
+              "explore-hyperswitch/overview/security"
+            ]
+          },
+          {
+            "group": "Payment Orchestration",
+            "pages": [
+              "explore-hyperswitch/payment-orchestration",
+              {
+                "group": "3DS Decision Manager",
+                "pages": [
+                  "explore-hyperswitch/payment-orchestration/3ds-decision-manager",
+                  "explore-hyperswitch/payment-orchestration/3ds-decision-manager/external-authentication-for-3ds",
+                  "explore-hyperswitch/payment-orchestration/3ds-decision-manager/native-3ds-authentication-for-mobile-payments",
+                  "explore-hyperswitch/payment-orchestration/3ds-decision-manager/setup-guide"
+                ]
+              },
+              {
+                "group": "Fraud and Risk Management",
+                "pages": [
+                  "explore-hyperswitch/payment-orchestration/fraud-and-risk-management",
+                  "explore-hyperswitch/payment-orchestration/fraud-and-risk-management/activating-frm-in-hyperswitch",
+                  "explore-hyperswitch/payment-orchestration/fraud-and-risk-management/fraud-blocklist"
+                ]
+              },
+              {
+                "group": "Payouts",
+                "pages": [
+                  "explore-hyperswitch/payment-orchestration/payouts",
+                  "explore-hyperswitch/payment-orchestration/payouts/get-started-with-payouts",
+                  "explore-hyperswitch/payment-orchestration/payouts/payout-link",
+                  "explore-hyperswitch/payment-orchestration/payouts/process-payouts-using-saved-payment-methods",
+                  "explore-hyperswitch/payment-orchestration/payouts/route-your-payout-transactions-using-smart-router",
+                  "explore-hyperswitch/payment-orchestration/payouts/smart-retries-in-payout"
+                ]
+              },
+              {
+                "group": "Quickstart",
+                "pages": [
+                  "explore-hyperswitch/payment-orchestration/quickstart",
+                  "explore-hyperswitch/payment-orchestration/quickstart/co-badged-cards-with-hyperswitch",
+                  "explore-hyperswitch/payment-orchestration/quickstart/incremental-authorization",
+                  "explore-hyperswitch/payment-orchestration/quickstart/mandates-and-recurring-payments",
+                  "explore-hyperswitch/payment-orchestration/quickstart/manual-capture",
+                  "explore-hyperswitch/payment-orchestration/quickstart/payment-workflows",
+                  "explore-hyperswitch/payment-orchestration/quickstart/webhooks",
+                  {
+                    "group": "Connectors",
+                    "pages": [
+                      "explore-hyperswitch/payment-orchestration/quickstart/connectors",
+                      "explore-hyperswitch/payment-orchestration/quickstart/connectors/activate-connector-on-hyperswitch",
+                      "explore-hyperswitch/payment-orchestration/quickstart/connectors/test-a-payment-with-connector",
+                      {
+                        "group": "Available Connectors",
+                        "pages": [
+                          "explore-hyperswitch/payment-orchestration/quickstart/connectors/available-connectors",
+                          "explore-hyperswitch/payment-orchestration/quickstart/connectors/available-connectors/aci",
+                          "explore-hyperswitch/payment-orchestration/quickstart/connectors/available-connectors/adyen",
+                          "explore-hyperswitch/payment-orchestration/quickstart/connectors/available-connectors/airwallex",
+                          "explore-hyperswitch/payment-orchestration/quickstart/connectors/available-connectors/authorizedotnet",
+                          "explore-hyperswitch/payment-orchestration/quickstart/connectors/available-connectors/bambora",
+                          "explore-hyperswitch/payment-orchestration/quickstart/connectors/available-connectors/bluesnap",
+                          "explore-hyperswitch/payment-orchestration/quickstart/connectors/available-connectors/boa",
+                          "explore-hyperswitch/payment-orchestration/quickstart/connectors/available-connectors/braintree",
+                          "explore-hyperswitch/payment-orchestration/quickstart/connectors/available-connectors/checkout",
+                          "explore-hyperswitch/payment-orchestration/quickstart/connectors/available-connectors/coinbase",
+                          {
+                            "group": "Cybersource",
+                            "pages": [
+                              "explore-hyperswitch/payment-orchestration/quickstart/connectors/available-connectors/cybersource"
+                            ]
+                          },
+                          "explore-hyperswitch/payment-orchestration/quickstart/connectors/available-connectors/dlocal",
+                          "explore-hyperswitch/payment-orchestration/quickstart/connectors/available-connectors/fiserv",
+                          "explore-hyperswitch/payment-orchestration/quickstart/connectors/available-connectors/globalpayments",
+                          "explore-hyperswitch/payment-orchestration/quickstart/connectors/available-connectors/gocardless",
+                          "explore-hyperswitch/payment-orchestration/quickstart/connectors/available-connectors/klarna",
+                          "explore-hyperswitch/payment-orchestration/quickstart/connectors/available-connectors/mollie",
+                          "explore-hyperswitch/payment-orchestration/quickstart/connectors/available-connectors/multisafepay",
+                          "explore-hyperswitch/payment-orchestration/quickstart/connectors/available-connectors/nuvei"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "group": "Migrate from Stripe",
+                    "pages": [
+                      "explore-hyperswitch/payment-orchestration/quickstart/migrate-from-stripe",
+                      "explore-hyperswitch/payment-orchestration/quickstart/migrate-from-stripe/android",
+                      "explore-hyperswitch/payment-orchestration/quickstart/migrate-from-stripe/ios",
+                      "explore-hyperswitch/payment-orchestration/quickstart/migrate-from-stripe/react-native",
+                      "explore-hyperswitch/payment-orchestration/quickstart/migrate-from-stripe/web"
+                    ]
+                  },
+                  {
+                    "group": "Payment Links",
+                    "pages": [
+                      "explore-hyperswitch/payment-orchestration/quickstart/payment-links",
+                      "explore-hyperswitch/payment-orchestration/quickstart/payment-links/configurations",
+                      "explore-hyperswitch/payment-orchestration/quickstart/payment-links/create",
+                      "explore-hyperswitch/payment-orchestration/quickstart/payment-links/secure-payment-links",
+                      "explore-hyperswitch/payment-orchestration/quickstart/payment-links/setup-custom-domain"
+                    ]
+                  },
+                  {
+                    "group": "Payment Methods Setup",
+                    "pages": [
+                      "explore-hyperswitch/payment-orchestration/quickstart/payment-methods-setup",
+                      "explore-hyperswitch/payment-orchestration/quickstart/payment-methods-setup/cards",
+                      "explore-hyperswitch/payment-orchestration/quickstart/payment-methods-setup/crypto",
+                      "explore-hyperswitch/payment-orchestration/quickstart/payment-methods-setup/pay-later",
+                      "explore-hyperswitch/payment-orchestration/quickstart/payment-methods-setup/test-credentials",
+                      {
+                        "group": "Banks",
+                        "pages": [
+                          "explore-hyperswitch/payment-orchestration/quickstart/payment-methods-setup/banks"
+                        ]
+                      },
+                      {
+                        "group": "Wallets",
+                        "pages": [
+                          "explore-hyperswitch/payment-orchestration/quickstart/payment-methods-setup/wallets"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "group": "Payment Recipes",
+                    "pages": [
+                      "explore-hyperswitch/payment-orchestration/quickstart/payment-recipes",
+                      "explore-hyperswitch/payment-orchestration/quickstart/payment-recipes/use-paypal-with-stripe"
+                    ]
+                  },
+                  {
+                    "group": "Tokenization and Saved Cards",
+                    "pages": [
+                      "explore-hyperswitch/payment-orchestration/quickstart/tokenization-and-saved-cards",
+                      "explore-hyperswitch/payment-orchestration/quickstart/tokenization-and-saved-cards/network-tokenisation"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Smart Retries",
+                "pages": [
+                  "explore-hyperswitch/payment-orchestration/smart-retries",
+                  "explore-hyperswitch/payment-orchestration/smart-retries/3ds-step-up-retries"
+                ]
+              },
+              {
+                "group": "Smart Router",
+                "pages": [
+                  "explore-hyperswitch/payment-orchestration/smart-router",
+                  "explore-hyperswitch/payment-orchestration/smart-router/default-fallback-routing",
+                  "explore-hyperswitch/payment-orchestration/smart-router/rule-based-routing",
+                  "explore-hyperswitch/payment-orchestration/smart-router/volume-based-routing"
+                ]
+              },
+              {
+                "group": "Split Payments",
+                "pages": [
+                  "explore-hyperswitch/payment-orchestration/split-payments",
+                  "explore-hyperswitch/payment-orchestration/split-payments/adyen-split-payments",
+                  "explore-hyperswitch/payment-orchestration/split-payments/stripe-split-payments",
+                  "explore-hyperswitch/payment-orchestration/split-payments/xendit-split-payments"
+                ]
+              },
+              {
+                "group": "Subscriptions",
+                "pages": [
+                  "explore-hyperswitch/payment-orchestration/subscriptions",
+                  "explore-hyperswitch/payment-orchestration/subscriptions/pg-agnostic-recurring-payments",
+                  "explore-hyperswitch/payment-orchestration/subscriptions/zero-amount-authorization-1"
+                ]
+              }
+            ]
+          }
+        ]
       }
     ],
     "global": {
